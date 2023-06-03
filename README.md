@@ -1,4 +1,4 @@
-# website for teaching and automating purposes
+# website 
 simply glone the repository and use it for any purpose
 
 website view
